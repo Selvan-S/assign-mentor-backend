@@ -39,7 +39,7 @@ Step 6: Use the below API endpoints for `students` and Base URL is `http://local
 "/eidt/:id" - Update student (PUT).
 "/assignMentor/:id" - Select One Student and Assign one Mentor (PUT).
 ```
-Step 8:
+Step 7:
 ```
 npm start
 ```
