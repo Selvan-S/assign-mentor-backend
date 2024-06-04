@@ -2,7 +2,7 @@
 ## About
 This is a backend for the Assign Mentor Task. Built using the JavaScript, React, Express.js, MongoDB, Node.js and Tailwind CSS.
 
-- [Live Preview](https://assign-mentor-selvan.netlify.app/student)
+- [Live Preview](https://assign-mentor-selvan.netlify.app)
 - [Frontend repository](https://github.com/Selvan-S/assign-mentor-frontend)
 
 ## Run
